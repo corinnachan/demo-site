@@ -24,6 +24,7 @@
     font-size: 2.5em;
     padding: 10px;
     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .about p{
@@ -52,7 +53,7 @@ input[type=submit] {
 }
 
 .contact h2 {
-    font-family: 'Ubuntu', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 2.5em;
     padding: 10px;
     text-align: center;
@@ -63,20 +64,13 @@ input[type=submit] {
     max-width: 500px;
 }
 
-.contact h2 {
-    font-family: 'Ubuntu', cursive;
-    font-size: 2.5em;
-    padding: 10px;
-    text-align: center;
-}
-
 .header {
     height: calc(100vh - 4em);
     width: 100%;
     display: flex;
     position: relative;
     justify-content: space-between;
-    background-image: url("images/Lula.jpg");
+    background-image: url("rah.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100vw;
@@ -85,6 +79,7 @@ input[type=submit] {
 .header h1 {
     font-size: 5em;
     padding: 20px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .header span {
@@ -131,7 +126,7 @@ nav a{
     display: inline-block;
     font-size: 1.5em;
     padding: 0 2rem;
-
+    font-family: 'Ubuntu', sans-serif;
 }
 
 nav a:hover {
