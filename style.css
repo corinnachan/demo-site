@@ -138,7 +138,7 @@ nav a:hover {
 }
 
 @media screen and (max-width: 1200px) {
-    .header {
+    header {
         background-size: cover;
     }
 }
@@ -147,18 +147,18 @@ nav a:hover {
     nav {
         display: none;
     }
-    .header {
+    header {
         height: auto;
         background: white;
         font-size: 0.5em;
     }
-    .header li.social {
+    header li.social {
         padding-top: 1.85em;
     }
-    .profile-pic img {
+    profile-pic img {
         width: 100%;
     }
-    .mob-only {
+    mob-only {
         display: block;
     }
     iframe {
