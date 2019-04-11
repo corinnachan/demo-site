@@ -78,11 +78,7 @@ header {
     display: flex;
     position: relative;
     justify-content: space-between;
-    background-image: url("rah.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    font-size: 2rem;
+
 }
 
 header, h1 {
