@@ -84,6 +84,7 @@ header h1 {
 
 header span {
     font-size: 2rem;
+    color: white;
 }
 
 header ul.social {
@@ -91,15 +92,15 @@ header ul.social {
     justify-content: flex-end;
     padding-right: 1.5em;
     list-style: none;
-    color: white;
+
 }
 
 header li.social {
     padding: 1em 0.75em 0 0.75em;
-    color: inherit;
+    color: white;
     text-decoration: none;
     font-size: 2.25em;
-    color: white;
+
 }
 
 header p {
