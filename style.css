@@ -1,6 +1,6 @@
 * {
-  margin: 0
-  padding: 0
+  margin: 0;
+  padding: 0;
   font-family: 'Ubuntu', sans-serif;
   color: black;
   box-sizing: border-box;
@@ -72,7 +72,7 @@ input[type=submit] {
     max-width: 500px;
 }
 
-.header {
+header {
     height: calc(100vh - 4em);
     width: 100%;
     display: flex;
@@ -82,33 +82,30 @@ input[type=submit] {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100vw;
+    font-size: 2rem;
 }
 
-.header h1 {
+header h1 {
     font-size: 5em;
     padding: 20px;
     font-family: 'Ubuntu', sans-serif;
 }
 
-.header span {
-    font-size: 2rem;
-}
-
-.header ul.social {
+header ul.social {
     display: flex;
     justify-content: flex-end;
     padding-right: 1.5em;
     list-style: none;
 }
 
-.header li.social {
+header li.social {
     padding: 1em 0.75em 0 0.75em;
     color: inherit;
     text-decoration: none;
     font-size: 2.25em;
 }
 
-.header p {
+header p {
     position: absolute;
     font-size: 1.25em;
     bottom: 80px;
