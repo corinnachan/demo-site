@@ -85,27 +85,27 @@ header {
     font-size: 2rem;
 }
 
-header h1 {
+header, h1 {
     font-size: 5em;
     padding: 20px;
     font-family: 'Ubuntu', sans-serif;
 }
 
-header ul.social {
+header, ul.social {
     display: flex;
     justify-content: flex-end;
     padding-right: 1.5em;
     list-style: none;
 }
 
-header li.social {
+header, li.social {
     padding: 1em 0.75em 0 0.75em;
     color: inherit;
     text-decoration: none;
     font-size: 2.25em;
 }
 
-header p {
+header, p {
     position: absolute;
     font-size: 1.25em;
     bottom: 80px;
