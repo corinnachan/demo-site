@@ -29,7 +29,7 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
-.about p{
+.about p {
     line-height: 1.5;
     text-justify: newspaper;
 }
@@ -89,6 +89,10 @@ header, h1 {
     font-size: 5em;
     padding: 20px;
     font-family: 'Ubuntu', sans-serif;
+}
+
+header, span {
+    font-size: 2rem;
 }
 
 header, ul.social {
