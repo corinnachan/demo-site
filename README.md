@@ -1,6 +1,8 @@
 # Static Site Demo
 
-This project was inspired by the Week 1 project madate from Founders and Coders. The actual project asks the team to create a one page website for themselves, and as I already have a personal website, I modified the aim to produce a one page website for fictional clients (classical musicians) looking to hire developers to build a website.
+This project was inspired by the Week 1 project madate from Founders and Coders. The actual project asks the team to create a one page website for themselves, and as I already have a personal website, I modified the aim to produce a one page website for a fictional company (CLEF) who are developers specialising in producing websites for clients who are classical musicians.
+
+Check out the project output [here](http://corinnachan.com/demo-site/)!
 
 **Purpose**
 
