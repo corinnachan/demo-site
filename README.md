@@ -4,12 +4,12 @@ This project was inspired by the Week 1 project madate from Founders and Coders.
 
 Check out the project output [here](http://corinnachan.com/demo-site/)!
 
-**Purpose**
+## **Purpose**
 
 This project follows the guidance on FAC's Week 1 project brief in order to
 learn to build a one-page website.
 
-**What is this site about**
+## **What is this site about**
 
 This site assumes that I am part of a team of developers who are promoting and
 educators (e.g. music teachers).
@@ -22,7 +22,7 @@ The site aims to allow potential clients to do the following:
 4. Navigate around the site without having to leave the page
 5. View the page responsively
 
-**How this site was built**
+## **How this site was built**
 
 This site is modelled after one-page sites built on GitHub pages that contain
 elements and style that I wanted to include. By observing the code of these
